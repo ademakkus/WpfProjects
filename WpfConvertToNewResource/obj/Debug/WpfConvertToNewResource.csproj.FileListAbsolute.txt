@@ -1,0 +1,14 @@
+C:\Users\mypc\source\repos\WpfProjects\WpfConvertToNewResource\bin\Debug\WpfConvertToNewResource.exe.config
+C:\Users\mypc\source\repos\WpfProjects\WpfConvertToNewResource\bin\Debug\WpfConvertToNewResource.exe
+C:\Users\mypc\source\repos\WpfProjects\WpfConvertToNewResource\bin\Debug\WpfConvertToNewResource.pdb
+C:\Users\mypc\source\repos\WpfProjects\WpfConvertToNewResource\obj\Debug\WpfConvertToNewResource.csprojAssemblyReference.cache
+C:\Users\mypc\source\repos\WpfProjects\WpfConvertToNewResource\obj\Debug\MainWindow.g.cs
+C:\Users\mypc\source\repos\WpfProjects\WpfConvertToNewResource\obj\Debug\App.g.cs
+C:\Users\mypc\source\repos\WpfProjects\WpfConvertToNewResource\obj\Debug\WpfConvertToNewResource_MarkupCompile.cache
+C:\Users\mypc\source\repos\WpfProjects\WpfConvertToNewResource\obj\Debug\WpfConvertToNewResource_MarkupCompile.lref
+C:\Users\mypc\source\repos\WpfProjects\WpfConvertToNewResource\obj\Debug\MainWindow.baml
+C:\Users\mypc\source\repos\WpfProjects\WpfConvertToNewResource\obj\Debug\WpfConvertToNewResource.g.resources
+C:\Users\mypc\source\repos\WpfProjects\WpfConvertToNewResource\obj\Debug\WpfConvertToNewResource.Properties.Resources.resources
+C:\Users\mypc\source\repos\WpfProjects\WpfConvertToNewResource\obj\Debug\WpfConvertToNewResource.csproj.GenerateResource.cache
+C:\Users\mypc\source\repos\WpfProjects\WpfConvertToNewResource\obj\Debug\WpfConvertToNewResource.exe
+C:\Users\mypc\source\repos\WpfProjects\WpfConvertToNewResource\obj\Debug\WpfConvertToNewResource.pdb
